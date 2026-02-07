@@ -108,6 +108,20 @@
 <br><br> 
 
 <img width="1006" height="528" alt="Screenshot 2026-02-07 135621" src="https://github.com/user-attachments/assets/63f64284-e0e7-41ed-9405-1eb6ae2d6b6a" />
+<p>
+  The dashboard highlights a massive total market capitalization of $12.61 trillion for the top 50 US tech companies (as captured in that period).
+This figure aligns well with historical data around late 2023/early 2024, when the "Magnificent Seven" (Apple, Microsoft, Alphabet/Google, Amazon, Nvidia, Meta, Tesla) and other big tech players collectively approached or exceeded ~$12–15 trillion during bull runs driven by AI hype, cloud growth, and post-pandemic recovery. (Note: By early 2026, the broader US tech sector's total market cap has grown significantly larger, often exceeding $40 trillion across 1,000+ companies, showing continued explosive growth.)
+</p>
+<p>
+  Amazon stands out as the clear revenue king with $513.98 billion in annual revenue — far ahead of the pack, thanks to its e-commerce + AWS cloud dominance.
+Apple follows strongly at $387.53 billion, powered by hardware (iPhone ecosystem) and services.
+The rest of the top tier includes:
+Alphabet (Google): $282.83 billion (advertising + cloud).
+Microsoft: $204.09 billion (cloud, software, enterprise).
+Meta: $116.6 billion (social/advertising).
+
+The bar chart emphasizes how a handful of giants generate the lion's share of revenue, with a steep drop-off after the top 5–10.
+</p>
 
 
 <br>
