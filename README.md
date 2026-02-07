@@ -97,6 +97,11 @@
 </div>
 
 <br><br>
+## <p align="center">
+ ## I also enjoy building clean and responsive user interfaces.<br>
+  ## Currently comfortable with HTML, CSS, and vanilla JavaScript — creating simple, modern-looking web pages.
+</p>
+<br><br>
 
 <img width="1001" height="598" alt="Screenshot 2026-01-22 131705" src="https://github.com/user-attachments/assets/c75ab089-6352-466f-a918-b03240e97a3e" />
 
