@@ -104,6 +104,9 @@
 <br><br>
 
 <img width="1001" height="598" alt="Screenshot 2026-01-22 131705" src="https://github.com/user-attachments/assets/c75ab089-6352-466f-a918-b03240e97a3e" />
+<p> 
+This dashboard provides a snapshot of sales performance, likely over a 5-month period (January to May, based on the monthly chart). It covers revenue, profit, costs, and breakdowns by sales reps, cities, products, and months. Note: There's a minor inconsistency in the aggregated figures (e.g., revenue ₦2.3Bn minus COGS ₦2Bn suggests ₦300M gross profit, but reported profit is ₦466M—possibly due to additional income, mislabeled costs, or dashboard rounding). I'll base the analysis on the visible data, focusing on trends, top performers, and opportunities. All figures are in Nigerian Naira (₦).
+</p>
 
 <br><br> 
 
